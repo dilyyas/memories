@@ -1,0 +1,16 @@
+.text{
+    font-size: 64px;
+    line-height: auto;
+    letter-spacing: 100%;
+    font-family: "Chewy", system-ui;
+}
+
+.chewy-regular {
+  font-family: "Chewy", system-ui;
+  font-weight: 738;
+  font-style: normal;
+}
+
+.photos{
+    display: flex;
+}
